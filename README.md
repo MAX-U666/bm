@@ -1,2 +1,2 @@
-# BM
-产品开发管理系统
+# product-dev-system
+商品管理系统
